@@ -1,0 +1,5 @@
+body{font-family:Georgia,serif;max-width:720px;margin:2rem auto;padding:0 1.2rem;color:#222;background:#fdfbf7;line-height:1.6}
+a{color:#6b4a1f} header{border-bottom:2px solid #6b4a1f;padding-bottom:1rem;margin-bottom:2rem}
+nav a{margin-right:1rem} h1{margin-bottom:.2rem} .dek{font-style:italic;color:#555}
+.entry{margin-bottom:2.5rem} .meta{color:#777;font-size:.9rem} footer{border-top:1px solid #ccc;margin-top:3rem;padding-top:1rem;color:#777;font-size:.9rem}
+.tag{display:inline-block;background:#eee;border-radius:3px;padding:0 .4rem;margin-right:.3rem;font-size:.85rem}
